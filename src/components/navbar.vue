@@ -76,9 +76,6 @@ export default {
         color: #f2f2f2;
     }
 
-    /*
-    ! a bug with the width 100% exists here 
-    */
     .navButtons ul li a::after{
         position: relative;
 
