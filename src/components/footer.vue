@@ -2,8 +2,7 @@
     <div class="footerComponent">
         <div class="photoCredits">
             <p>credit for background photos go to</p>
-            <p>Nick Brugioni</p>
-            <p>Norbert Kundrak</p>
+            <p>Norbert Kundrak on Unsplash</p>
         </div>
 
         <div class="copyright">
