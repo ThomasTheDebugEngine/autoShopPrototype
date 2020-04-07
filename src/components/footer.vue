@@ -1,12 +1,12 @@
 <template>
     <div class="footerComponent">
         <div class="photoCredits">
-            <p>credit for background photos go to</p>
+            <p>credit for background photo goes to</p>
             <p>Norbert Kundrak on Unsplash</p>
         </div>
 
         <div class="copyright">
-            <p>jeep autorepair 2020 &copy;</p>
+            <p>Oto güneş 2020 &copy;</p>
         </div>
     </div>
 </template>
